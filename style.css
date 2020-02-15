@@ -1,0 +1,13 @@
+#solve-the-game {
+    font-size: 18px;
+    line-height: 45px;
+    display: inline-block;
+    padding: 6px 13px 4px;
+    color: #959595;
+}
+
+#solve-the-game:hover {
+    cursor: pointer;
+    background-color: #3185ea !important;
+    color: #fff !important;
+}
